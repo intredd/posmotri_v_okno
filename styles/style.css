@@ -173,7 +173,6 @@ ol {
 .search-form__textfield:active {
   outline: 1px solid #fff;
   outline-offset: -1px;
-  /* TODO: single border when active */
 }
 
 .search-form__checkbox-list {
